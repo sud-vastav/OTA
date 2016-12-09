@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <oneplus3>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161202-oneplus3.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161209-oneplus3.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862686238</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862687474</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
