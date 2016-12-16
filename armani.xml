@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <armani>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161208-armani.zip</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161215-armani.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=673368273298915539</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=385035244224405902</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
