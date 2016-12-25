@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <armani>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161215-armani.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161223-armani-OFFICIAL.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=385035244224405902</BuildUrl>
+            	description="Download Latest Build">http://resurrectionremix.com/armani/RR-N-v5.8.0-20161223-armani-OFFICIAL.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/user/?w=settings-dev-files&amp;flid=31942</RomUrl>
+                description="Download ResurrectionRemix builds">http://resurrectionremix.com/armani</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/efaluxakin.hs</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
