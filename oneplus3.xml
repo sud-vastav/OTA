@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <oneplus3>
-            <Filename>RR-N-v5.8.0-20161225-oneplus3-OFFICIAL-MerryChristmas.zip</Filename>
+            <Filename>RR-N-v5.8.0-20161227-oneplus3-OFFICIAL-MerryChristmas.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://resurrectionremix.com/oneplus3/RR-N-v5.8.0-20161225-oneplus3-OFFICIAL-MerryChristmas.zip</BuildUrl>
+            	description="Download Latest Build">http://resurrectionremix.com/oneplus3/RR-N-v5.8.0-20161227-oneplus3-OFFICIAL-MerryChristmas.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/ijewijufal.hs</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/anumehupag.sql</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
