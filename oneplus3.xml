@@ -6,11 +6,11 @@
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://resurrectionremix.com/oneplus3/RR-N-v5.8.0-20161227-oneplus3-OFFICIAL-MerryChristmas.zip</BuildUrl>
+            	description="Download Latest Build">http://downloads.resurrectionremix.com/oneplus3/RR-N-v5.8.0-20161227-oneplus3-OFFICIAL-MerryChristmas.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">http://resurrectionremix.com/oneplus3</RomUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/oneplus3</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
