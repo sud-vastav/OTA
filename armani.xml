@@ -6,7 +6,7 @@
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">http://downloads.resurrectionremix.com/armani/RR-N-v5.8.0-20161223-armani-OFFICIAL.zip</BuildUrl>
+            	description="Download Latest Build">http://downloads.resurrectionremix.com/armani/RR-N-v5.8.0-20170115-armani-OFFICIAL.zip</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/efaluxakin.hs</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/utaxiruwos.sql</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
