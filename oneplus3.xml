@@ -6,7 +6,7 @@
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=745425885120700874</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862696085</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://forum.xda-developers.com/showpost.php?p=70578633&amp;postcount=1632</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/oquwoqinaf.sql</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
