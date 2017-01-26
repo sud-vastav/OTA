@@ -6,7 +6,7 @@
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862697058</BuildUrl>
+            	description="Download Latest Build">https://www.androidfilehost.com/?fid=529152257862698465</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://www.hastebin.com/oxehuzugoy.sql</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/keqixuzowe.hs</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
