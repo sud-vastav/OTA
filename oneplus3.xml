@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <oneplus3>
-            <Filename>RR-N-v5.8.1-20170204-oneplus3-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170207-oneplus3-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/oneplus3/RR-N-v5.8.1-20170204-oneplus3-Official.zip/download</BuildUrl>
+            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/oneplus3/RR-N-v5.8.1-20170207-oneplus3-Official.zip/download</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/upulenayos.swift</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/zavupazumi.sql</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
