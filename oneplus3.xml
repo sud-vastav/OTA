@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <oneplus3>
-            <Filename>RR-N-v5.8.1-20170207-oneplus3-Official.zip</Filename>
+            <Filename>RR-N-v5.8.1-20170214-oneplus3-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
