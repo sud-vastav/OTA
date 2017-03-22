@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
 	 <armani>
-            <Filename>RR-N-v5.8.1-20170203-armani-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170320-armani-Official.zip</Filename>
             <BuildUrl
             	id="build"
             	title="LatestBuild"
-            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/armani/RR-N-v5.8.1-20170203-armani-OFFICIAL.zip/download</BuildUrl>
+            	description="Download Latest Build">https://sourceforge.net/projects/resurrectionremix/files/armani/RR-N-v5.8.2-20170320-armani-Official.zip/download</BuildUrl>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/cikijuyime.sql</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/woqusuxisa.sql</ChangelogUrl>
             <SlimGappsUrl
             	id="slim_gapps"
             	title="Slim GApps"
